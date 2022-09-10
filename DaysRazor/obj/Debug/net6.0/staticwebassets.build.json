@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "AZmI/EJ2KvdqUxYb7T5zVqgON+MfdTX2Q72t+EWpXqk=",
+  "Source": "DaysRazor",
+  "BasePath": "_content/DaysRazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DaysRazor\\wwwroot",
+      "Source": "DaysRazor",
+      "ContentRoot": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\wwwroot\\",
+      "BasePath": "_content/DaysRazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DaysRazor.styles.css",
+      "SourceId": "DaysRazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DaysRazor",
+      "RelativePath": "DaysRazor.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DaysRazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DaysRazor.bundle.scp.css",
+      "SourceId": "DaysRazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DaysRazor",
+      "RelativePath": "DaysRazor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DaysRazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\wwwroot\\background.png",
+      "SourceId": "DaysRazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\wwwroot\\",
+      "BasePath": "_content/DaysRazor",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\wwwroot\\css\\DaysRazor.css",
+      "SourceId": "DaysRazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vandna\\Dropbox\\My PC (LAPTOP-30LUJFDN)\\Desktop\\test-webApp\\DaysRazor\\DaysRazor\\wwwroot\\",
+      "BasePath": "_content/DaysRazor",
+      "RelativePath": "css/DaysRazor.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\DaysRazor.css"
+    }
+  ]
+}

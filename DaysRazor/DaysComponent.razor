@@ -1,0 +1,125 @@
+﻿@using Microsoft.JSInterop
+@using Microsoft.AspNetCore.Components.Forms
+
+@inject HttpClient Http
+
+@inject IJSRuntime JSRuntime
+
+
+
+@if (numberOfDaysLength != 0 && numberOfDays != null )
+{
+    @if (numberOfDaysLength == 3)
+    { 
+        <style>.course_day {width:15%;}</style>
+    }
+    else
+    {
+        <style>.course_day {width:10%;}</style>
+    }
+    <table class="bookDaysDate bookDays my-component" style="width: 100%;">
+            <tbody>
+                <tr>
+	                <td class="course_day" style="font-size: 29px !important; padding: 5px;">
+		                <table style="margin: 0;">
+    		                <tbody>
+                                <tr>
+                                    @if (numberOfDaysLength == 1)
+                                   {
+                                    <td style="padding: 7px;"><p>0</p></td>
+                                    int? daysArray = int.Parse(checkNull(numberOfDays.ToString()));
+                                        <td style="padding: 7px;"><p>@daysArray</p></td>
+                                   }
+                                   else if(numberOfDaysLength == 3)
+                                   {
+                                        @for (var i = 0; i < numberOfDaysLength; i++)
+                                        {
+                                            int? daysArray = int.Parse(numberOfDays[i].ToString());
+                                            <td style="padding: 7px;"><p>@daysArray</p></td>
+                                        }
+                                    }
+                                    else
+                                    {                                        
+                                        @for (var i = 0; i < numberOfDaysLength; i++)
+                                        {
+                                            int? daysArray = int.Parse(numberOfDays[i].ToString());
+                                            <td style="padding: 7px;"><p>@daysArray</p></td>
+                                        }
+                                        
+                                    }
+                                </tr>
+                            </tbody> 
+                        </table>	 
+                    </td>
+				    <td class="course_till">DAYS TILL NEXT COURSE</td>
+				    <td style="text-align: right;vertical-align: middle;">
+					    <a class="bookdayButton" href="#">BOOK NOW</a>
+				    </td>
+			    </tr>
+		    </tbody>
+        </table>
+}
+@code {
+    
+    [Parameter]
+    public string? productId { get; set; }
+
+    public int? numberOfDaysLength;
+    public char[]? numberOfDays;
+
+    @* TODO: You need to replace MyRazorClassLibrary with the actual name of your library *@
+
+    public static string checkNull(string? text)
+    {
+        if (text is null)
+        {
+            return "";
+        }
+        else
+        {
+            return text; // No warning
+        }
+    }
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await DaysLoad();
+    }
+    public async Task DaysLoad()
+    {
+        //91222-w
+        var daysClass = new DaysClass(productId);
+        var daysURL = "http://117.20.6.63:8081/reiq/api/course/days_till_next_course?course_id=" + productId;
+        Console.WriteLine(daysURL);
+        var requestMessage = new HttpRequestMessage()
+        {
+            Method = new HttpMethod("GET"),
+            RequestUri = new Uri(daysURL)
+        };
+        var response = await Http.SendAsync(requestMessage);
+        var responseStatusCode = response.StatusCode;
+        var responseBody = await response.Content.ReadAsStringAsync();   
+
+        //var details=JObject.Parse(responseBody);
+        var joResponse = JObject.Parse(responseBody);
+        var numberOfDaysResponse1 = joResponse["daysTillNextCourse"]!;
+        var numberOfDaysResponse2 = numberOfDaysResponse1[0]!;
+        var numberOfDaysResponse3 = numberOfDaysResponse2[0]!;
+        string? numberOfDaysResponse4 = (string)numberOfDaysResponse3["daysleft"]!;
+        numberOfDays = numberOfDaysResponse4.ToCharArray();
+        numberOfDaysLength = (int) numberOfDays.Length;
+    }
+
+    public class DaysClass
+    {
+        public string? productId;
+        public DaysClass(string? productId)
+        {
+            this.productId = productId;
+        }
+
+    }
+
+}

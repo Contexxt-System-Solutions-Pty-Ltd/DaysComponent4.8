@@ -1,0 +1,54 @@
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.AssemblyReference.cache
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfoInputs.cache
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfo.cs
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.CoreCompileInputs.cache
+C:\c#\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.staticwebassets.runtime.json
+C:\c#\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.deps.json
+C:\c#\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.dll
+C:\c#\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.pdb
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.build.json
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.development.json
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\bundle\DaysRazor.styles.css
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\projectbundle\DaysRazor.bundle.scp.css
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.dll
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\refint\DaysRazor.dll
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.pdb
+C:\c#\DaysRazor\DaysRazor\obj\Debug\net6.0\ref\DaysRazor.dll
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.AssemblyReference.cache
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.GeneratedMSBuildEditorConfig.editorconfig
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfoInputs.cache
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfo.cs
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.CoreCompileInputs.cache
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.staticwebassets.runtime.json
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.deps.json
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.dll
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.pdb
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.build.json
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.development.json
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\DaysComponent.razor.rz.scp.css
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\bundle\DaysRazor.styles.css
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\projectbundle\DaysRazor.bundle.scp.css
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.dll
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\refint\DaysRazor.dll
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.pdb
+D:\workSpace\VS Code\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\ref\DaysRazor.dll
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.AssemblyReference.cache
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfoInputs.cache
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.AssemblyInfo.cs
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.csproj.CoreCompileInputs.cache
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.staticwebassets.runtime.json
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.deps.json
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.dll
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\bin\Debug\net6.0\DaysRazor.pdb
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\DaysComponent.razor.rz.scp.css
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\bundle\DaysRazor.styles.css
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\scopedcss\projectbundle\DaysRazor.bundle.scp.css
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.dll
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\refint\DaysRazor.dll
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\DaysRazor.pdb
+C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\obj\Debug\net6.0\ref\DaysRazor.dll

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DaysRazor</id>
+    <version>1.0.0</version>
+    <authors>DaysRazor</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Microsoft.Extensions.Http.Polly" version="6.0.7" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net48/DaysComponent.razor" buildAction="Content" />
+      <files include="any/net48/_Imports.razor" buildAction="Content" />
+      <files include="any/net48/wwwroot/background.png" buildAction="Content" />
+      <files include="any/net48/wwwroot/css/DaysRazor.css" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\bin\Debug\net4.8\DaysRazor.dll" target="lib\net48\DaysRazor.dll" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\DaysComponent.razor" target="content\DaysComponent.razor" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\DaysComponent.razor" target="contentFiles\any\net48\DaysComponent.razor" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\_Imports.razor" target="content\_Imports.razor" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\_Imports.razor" target="contentFiles\any\net48\_Imports.razor" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\wwwroot\background.png" target="content\wwwroot\background.png" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\wwwroot\background.png" target="contentFiles\any\net48\wwwroot\background.png" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\wwwroot\css\DaysRazor.css" target="content\wwwroot\css\DaysRazor.css" />
+    <file src="C:\Users\vandna\Dropbox\My PC (LAPTOP-30LUJFDN)\Desktop\test-webApp\DaysRazor\DaysRazor\wwwroot\css\DaysRazor.css" target="contentFiles\any\net48\wwwroot\css\DaysRazor.css" />
+  </files>
+</package>

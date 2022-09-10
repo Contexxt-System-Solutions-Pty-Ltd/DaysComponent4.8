@@ -1,0 +1,64 @@
+﻿
+.bookDays {
+    background: #2f476d;
+    padding: 1%;
+    /*margin-top: -50PX;*/
+    color: #FFFFFF;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size: 27px;
+    text-transform: uppercase !important;
+}
+
+.bookDays p {
+    background: #FFFFFF;
+    color: #D11242;
+    /*padding-left: 10%;*/
+    /*padding-right: 10%;*/
+    margin-bottom: 0;
+    font-size: 55px !important;
+    width: 50px;
+    text-align: center;
+}
+
+.bookDays .bookdayButton {
+    display: block;
+    float: right !important;
+}
+
+.bookdayButton1 {
+    display: none;
+    text-align: center;
+}
+
+.bookDays .bookdayButton, .bookdayButton1 {
+    width: auto !important;
+    padding: 0.4em 0.8em !important;
+    text-decoration: none;
+    letter-spacing: 2px !important;
+    color: #FFF;
+    background: #00a9ac;
+    border: 2px solid #00a9ac !important;
+    font-weight: 600;
+    font-size: 26px;
+    border-radius: 4px !important;
+    text-transform: uppercase !important;
+}
+
+.bookDaysDate {
+    display: table;
+    margin: 0;
+}
+
+    .bookDaysDate td {
+        border: none;
+    }
+
+    .bookDaysDate .course_till {
+        font-size: 29px !important;
+        text-align: left;
+        padding-left: 10px;
+        vertical-align: middle;
+        color: #fff;
+    }
+
